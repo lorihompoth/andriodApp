@@ -1,2 +1,2 @@
 # andriodApp
-this is a readme
+Description of my application.
